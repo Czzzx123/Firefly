@@ -9,7 +9,7 @@ export const siteConfig: SiteConfig = {
 	title: "WacxgSite",
 
 	// 站点副标题
-	subtitle: "Demo site",
+	subtitle: "Wacxgsite",
 
 	// 站点 URL
 	site_url: "https://banapple000.com",
@@ -106,7 +106,7 @@ export const siteConfig: SiteConfig = {
 		// 留言板页面开关，需要配置评论系统
 		guestbook: true,
 		// 番组计划页面开关，含追番、游戏、书籍和音乐
-		bangumi: false,
+		bangumi: true,
 		// 相册页面开关
 		gallery: true,
 		// 追番页面开关
@@ -194,7 +194,7 @@ export const siteConfig: SiteConfig = {
 	// bangumi配置
 	bangumi: {
 		// Bangumi用户ID
-		userId: "1143164",
+		userId: "1266398",
 		// 数据模式：static=构建时获取，dynamic=客户端实时获取
 		// static 模式在构建时获取数据并静态渲染，部署后数据不更新
 		// dynamic 模式在浏览器中实时请求 API，始终显示最新数据
