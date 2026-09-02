@@ -1,5 +1,5 @@
 {
-    "name": "my_blog",        // 修改为你的项目名称
+    "name": "firefly",        // 修改为你的项目名称
   "compatibility_date": "2026-07-20", // 更为今日
   "compatibility_flags": ["nodejs_compat"],
 
