@@ -23,6 +23,16 @@ export const friendsPageConfig: FriendsPageConfig = {
 // 友链配置
 export const friendsConfig: FriendLink[] = [
 	{
+		title: "ZBL神奇宝库",
+		imgurl:
+			"https://zblweb.top/_astro/avatar.CEmIbBqr_ZvvaBP.webp",
+		desc: "Hello, I'm ZBL.",
+		siteurl: "https://zblweb.top/",
+		tags: ["Blog"],
+		weight: 11, // 权重，数字越大排序越靠前
+		enabled: true, // 是否启用
+	},
+	{
 		title: "夏夜流萤",
 		imgurl:
 			"https://weavatar.com/avatar/d252655d40d6874417a720bad0a6c5f77f8f6a1fd2f882f8f338402dc37e4190?s=640",
@@ -32,6 +42,7 @@ export const friendsConfig: FriendLink[] = [
 		weight: 10, // 权重，数字越大排序越靠前
 		enabled: true, // 是否启用
 	},
+	
 	{
 		title: "Firefly Docs",
 		imgurl: "https://docs-firefly.cuteleaf.cn/logo.png",
