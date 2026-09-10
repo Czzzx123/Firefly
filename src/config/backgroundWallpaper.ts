@@ -62,7 +62,7 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
     // ],
 
     //设置成随机图片模式
-    desktop: "https://t.alcy.cc/pc",
+    desktop: "https://t.alcy.cc/fj",
     mobile: "https://t.alcy.cc/mp",
 
     // 背景视频播放地址
