@@ -63,7 +63,7 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 
     //设置成随机图片模式
     desktop: "https://t.alcy.cc/fj",
-    mobile: "https://t.alcy.cc/mp",
+    mobile: "https://t.alcy.cc/fj",
 
     // 背景视频播放地址
     // 支持单个视频路径（字符串）或多个视频循环（数组）
